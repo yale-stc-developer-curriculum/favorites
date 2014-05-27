@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Snowboarding WITH RED BULL down a double diamond with A HELICOPTER and random CAPITAL LETTERS everywhere. 
 BLeached whales
 First few weeks of pregnancy <- nothing I can change to make this better.
@@ -18,3 +19,8 @@ BIRDS ARE DYING.
 ANDRES IS NOT VERY AMERICAN.
 BIRDS ARE DYING.
 ANDRES IS NOT VERY AMERICAN.
+=======
+Here are some really cool experiences I have had:
+parasailing
+scuba diving
+>>>>>>> 5471824ed7c045e96cb671d355714b5232e3da9c
