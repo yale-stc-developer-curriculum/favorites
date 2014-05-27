@@ -1,7 +1,11 @@
 Guacamole
 lasagna is really yummy
 dried mango with spicy chilly
+<<<<<<< HEAD
 Quesadillas
 BBQ/slaw
 Strawberry Avocado salsa, amirite? 
 
+=======
+Quesadillas yassssss
+>>>>>>> 64f6be7c6cf898f712437d411b9b5cb76a8637a5
