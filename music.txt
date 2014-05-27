@@ -11,6 +11,6 @@ Crooked Still
 The Corrs
 Joni Mitchell 
 Bruce Springsteen
-The Doors
-The Beatles
-Panic!! at the Disco
+<<<<<<< HEAD
+Free Falling
+Anything with a Uke
