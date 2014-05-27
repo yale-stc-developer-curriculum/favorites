@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 99 luftballons- Nena
 Wannabe- Spice Girls
 Intro- The XX
@@ -24,6 +25,35 @@ Landlocked Blues - Bright Eyes
 Home - Michael Buble
 Hearts on Fire - Passenger
 =======
+=======
+
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+My Kindergarten Class "A is for Apple"
+Pink Floyd "Wish you were here"
+Flogging Molly "Salty Dog"
+The Who "Behind Blue Eyes"
+The Eagles "Hotel California"
+When in Rome “The Promise”
+Wicked “Defying Gravity”
+Daniel Powter “Crazy”
+
+>>>>>>> 5cdf59acc5b069afd1dd494a69aa0e8dadfbb402
 1. Fleetwood Mac
 2. Robyn
 3. Beyonce
@@ -35,4 +65,8 @@ Hearts on Fire - Passenger
 9. Billy Joel
 10. Rolling Stones
 11. The Four Tops
+<<<<<<< HEAD
 >>>>>>> 5471824ed7c045e96cb671d355714b5232e3da9c
+=======
+
+>>>>>>> 5cdf59acc5b069afd1dd494a69aa0e8dadfbb402
