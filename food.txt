@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1) [NOOOOOOOOOOO!!!!!!!] Chick-fil-A fried chicken, yo
 http://www.getupanddosomething.org/wp-content/uploads/2013/12/chick-fil-a.jpg
 2) Dumples
@@ -19,3 +20,10 @@ http://bcroll.files.wordpress.com/2012/07/img_3312.jpg
 12) My chef crush: http://www.google.com/imgres?imgurl=http://mauirestaurantsblog.com/wp-content/uploads/2013/04/morimoto.jpg&imgrefurl=http://mauirestaurantsblog.com/iron-chef-morimoto-to-open-restaurant-at-andaz/&h=183&w=276&tbnid=bIja8iDBA-6UVM:&zoom=1&tbnh=132&tbnw=200&usg=__4hTwxbvKzbx9y_2SP4dTLAfcNPw=&docid=nqwN2MqPPr1mRM&itg=1&sa=X&ei=paWEU4X2JOzJsQTB_YIw&ved=0CKABEPwdMAo
 #Yay
 
+=======
+Hi there! Here are our favorite foods:
+Swiss fondue
+Choc. chip cookies
+Filet mignon
+CHICKEN TENDERS (#1 food in the world)
+>>>>>>> 5471824ed7c045e96cb671d355714b5232e3da9c

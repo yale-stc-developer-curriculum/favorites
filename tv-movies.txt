@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The West Wing
 It's Always Sunny in Philadelphia
 Game of Thrones
@@ -19,3 +20,14 @@ Up
 Forrest Gump
 Spirited Away
 Adventure Time
+=======
+"A Night at the Roxbury" 
+Anchorman 
+Dexter 
+Sportscenter
+Clockwork Orange
+The Shining
+Dr. Strangelove
+Full Metal Jacket 
+(sorry, I love Kubrick!!) 
+>>>>>>> 5471824ed7c045e96cb671d355714b5232e3da9c
