@@ -10,7 +10,12 @@ Downtown Abbey
 Sherlock 
 Arrested Development 
 Pirates of Silicon Valley
-Forrest Gump
+<<<<<<< HEAD
+Breaking Bad
+LEGEND OF KORRA!!!!!!
+Attack on Titan
+Pulp Fiction
 Up
+Forrest Gump
 Spirited Away
 Adventure Time
