@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 Big Bang Theory (don’t love this one. got to be honest)
 Dawn of the Dead
 Keeping up the Kardashians
@@ -20,3 +21,23 @@ Game of Thrones (This should never be deleted)
 Braveheart
 Dodgeball!
 
+=======
+
+TV --
+Lost
+House
+Scrubs
+House of Cards
+Scandal
+Mad Men
+Game of Thrones
+Downton Abbey
+House
+--------------
+MOVIES --
+CASABLANCA
+Mr. Nobody
+Inception
+Good Will Hunting
+Scooby Doo 2 monsters unleashed
+>>>>>>> origin/coffee
