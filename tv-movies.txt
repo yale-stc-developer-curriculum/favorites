@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+The West Wing
+It's Always Sunny in Philadelphia
+Game of Thrones
+Twilight Zone
+North by Northwest
+Risky Business
+Star Wars IV: A New Hope
+How I Met Your Mother
+Downtown Abbey
+Sherlock 
+Arrested Development 
+Pirates of Silicon Valley
+<<<<<<< HEAD
+Breaking Bad
+LEGEND OF KORRA!!!!!!
+Attack on Titan
+Pulp Fiction
+Up
+Forrest Gump
+Spirited Away
+Adventure Time
+=======
+=======
 
 
 PACIFIC RIM ;)
@@ -12,6 +37,7 @@ Guys, I’m so bad at watching movies the first time I saw Inception I wasn’t 
 
 This file has been closed because of profantiy. 
 
+>>>>>>> 5cdf59acc5b069afd1dd494a69aa0e8dadfbb402
 "A Night at the Roxbury" 
 Anchorman 
 Dexter 
@@ -21,4 +47,8 @@ The Shining
 Dr. Strangelove
 Full Metal Jacket 
 (sorry, I love Kubrick!!) 
+<<<<<<< HEAD
+>>>>>>> 5471824ed7c045e96cb671d355714b5232e3da9c
+=======
 
+>>>>>>> 5cdf59acc5b069afd1dd494a69aa0e8dadfbb402
