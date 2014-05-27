@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Experiment: a scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact. "laboratory experiments on guinea pigs"
 synonyms:	test, investigation, trial, examination, observation; More
 research, experimentation, observation, analysis, testing
@@ -15,7 +14,6 @@ research, experimentation, observation, analysis, testing
 10. Climbing a glacier in Iceland
 11. Witnessing a royal procession in Copenhagen
 =======
-<<<<<<< HEAD
 Snowboarding WITH RED BULL down a double diamond with A HELICOPTER and random CAPITAL LETTERS everywhere. 
 BLeached whales
 First few weeks of pregnancy <- nothing I can change to make this better.
@@ -36,13 +34,8 @@ BIRDS ARE DYING.
 ANDRES IS NOT VERY AMERICAN.
 BIRDS ARE DYING.
 ANDRES IS NOT VERY AMERICAN.
->>>>>>> 5cdf59acc5b069afd1dd494a69aa0e8dadfbb402
-=======
+hahahahahaha
 Here are some really cool experiences I have had:
 parasailing
 scuba diving
-<<<<<<< HEAD
 
-=======
->>>>>>> 5471824ed7c045e96cb671d355714b5232e3da9c
->>>>>>> 5cdf59acc5b069afd1dd494a69aa0e8dadfbb402
