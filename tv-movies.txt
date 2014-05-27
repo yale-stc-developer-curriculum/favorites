@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 House of Cards
 Suits
 New Girl
 Game of Thrones
+=======
+batman begins
+the dark knight
+the dark knight rises
+>>>>>>> b0502eaa515406ce515ada996af87387e388e8f2

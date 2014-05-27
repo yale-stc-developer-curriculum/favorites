@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 pizza
 watermelon
 mango
 lasagna
+=======
+tiramisu
+morse and stiles pizza
+alphonso mangoes
+>>>>>>> b0502eaa515406ce515ada996af87387e388e8f2

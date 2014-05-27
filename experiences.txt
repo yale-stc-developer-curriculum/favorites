@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 graduation trip to Brazil
 giving a TEDx talk
 getting into Yale! :)
+=======
+backpacking in alaska
+reading I Am America, And So Can You
+having a staring contest with a leopard
+>>>>>>> b0502eaa515406ce515ada996af87387e388e8f2
