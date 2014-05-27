@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+Hi there! Here are our favorite foods:
+=======
 Here are our favorite foods:
+>>>>>>> 68d855faf0b7b1fd13c1528179460311d55eecb3
 Swiss fondue
 Choc. chip cookies
 Filet mignon
