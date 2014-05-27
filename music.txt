@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 MGMT
 Disclosure
 Lenny Kravitz
@@ -6,4 +5,3 @@ Lenny Kravitz
 coldplay
 grouplove
 pink floyd
->>>>>>> b0502eaa515406ce515ada996af87387e388e8f2

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 snowflakes
 rainbows
 flowers
@@ -6,4 +5,3 @@ flowers
 marcus russi's rippling calves
 casey watts' fierce jawline
 charlie proctor's buzzy buzzcut
->>>>>>> b0502eaa515406ce515ada996af87387e388e8f2
